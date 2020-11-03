@@ -18,6 +18,15 @@ $(function () {
     });
 });
 
+$(document).ready(function(){
+    $("#menu").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop:top}, 1500);
+    });
+});
+
 $(document).ready(function () {
     const navOffset = $("#nav").offset().top;
 
@@ -125,7 +134,7 @@ $(function () {
     }
 });
 
-$('.read-next').live('click', function () {
+$('.read-nextFrth').live('click', function () {
 
     if ($('.dropMoreInfo4').css('max-height') !== 'none') {
         $('.dropMoreInfo4').css('max-height', '');
@@ -137,3 +146,28 @@ $('.read-next').live('click', function () {
 
     return false;
 });
+
+$(function () {
+    if ($('.dropMoreInfo5').length) {
+        blok_height = Number($('.dropMoreInfo5').css('height').replace('px', ''));
+
+        if (blok_height > 230) {
+            $('.dropMoreInfo5').css('max-height', '230px');
+            $('.read-nextFvth').show();
+        }
+    }
+});
+
+$('.read-nextFvth').live('click', function () {
+
+    if ($('.dropMoreInfo5').css('max-height') !== 'none') {
+        $('.dropMoreInfo5').css('max-height', '');
+        $(this).text('Скрыть');
+    } else {
+        $('.dropMoreInfo5').css('max-height', '230px');
+        $(this).text('Читать далее...');
+    }
+
+    return false;
+});
+

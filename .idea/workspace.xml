@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f492452e-4882-4818-afed-415ff60fb681" name="Default Changelist" comment="Upgrade">
-      <change afterPath="$PROJECT_DIR$/JavaScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project X.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project X.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
@@ -77,7 +75,7 @@
       <workItem from="1604134955959" duration="3197000" />
       <workItem from="1604265239884" duration="1316000" />
       <workItem from="1604329691770" duration="8943000" />
-      <workItem from="1604395994956" duration="6660000" />
+      <workItem from="1604395994956" duration="13339000" />
     </task>
     <servers />
   </component>
