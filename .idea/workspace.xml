@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f492452e-4882-4818-afed-415ff60fb681" name="Default Changelist" comment="" />
+    <list default="true" id="f492452e-4882-4818-afed-415ff60fb681" name="Default Changelist" comment="Upgrade">
+      <change afterPath="$PROJECT_DIR$/JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project X.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project X.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +35,18 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jW0a1U8ZMxUnZjI3Osw8zEeDkL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,17 +73,41 @@
       <workItem from="1603904600475" duration="8610000" />
       <workItem from="1603975053720" duration="19010000" />
       <workItem from="1604031129383" duration="3200000" />
+      <workItem from="1604076541350" duration="5452000" />
+      <workItem from="1604134955959" duration="3197000" />
+      <workItem from="1604265239884" duration="1316000" />
+      <workItem from="1604329691770" duration="8943000" />
+      <workItem from="1604395994956" duration="6660000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgrade" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2392" y="177" width="555" height="534" key="find.popup" timestamp="1604032033063">
+    <state x="2392" y="177" width="555" height="534" key="find.popup" timestamp="1604083833632">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
     <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1603977793804" />
-    <state x="2392" y="177" width="555" height="534" key="find.popup/0.0.1920.1040/1920.0.1360.728@1920.0.1360.728" timestamp="1604032033063" />
+    <state x="2392" y="177" width="555" height="534" key="find.popup/0.0.1920.1040/1920.0.1360.728@1920.0.1360.728" timestamp="1604083833632" />
+    <state x="2256" y="162" key="run.anything.popup" timestamp="1604397831198">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="2256" y="162" key="run.anything.popup/0.0.1920.1040/1920.0.1360.728@1920.0.1360.728" timestamp="1604397831198" />
   </component>
 </project>
